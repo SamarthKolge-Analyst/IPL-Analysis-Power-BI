@@ -4,7 +4,7 @@ Welcome to the IPL Analysis Project repository! This project offers a comprehens
 
 ## Overview
 
-The IPL Analysis Project is an in-depth examination of IPL cricket data spanning from 2012 to 2022. It encompasses various aspects of the tournament, including team performances, individual player statistics, match venues, and comparisons between popular teams like Mumbai Indians and Chennai Super Kings.
+The IPL Analysis Project is an in-depth examination of IPL cricket data spanning from 2008 to 2022. It encompasses various aspects of the tournament, including team performances, individual player statistics, match venues, and comparisons between popular teams like Mumbai Indians and Chennai Super Kings.
 
 ## Key Features
 
